@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransXChange CreationDateTime="2010-10-28T08:39:58" ModificationDateTime="2010-10-28T08:39:58" Modification="new" FileName="G:\mentzdv\Datastore\output_txc_05HIL_.xml" RevisionNumber="0" SchemaVersion="2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns="http://www.transxchange.org.uk/" xmlns:n1="http://www.transxchange.org.uk/" xmlns:n2="http://www.govtalk.gov.uk/people/AddressAndPersonalDetails" xmlns:n3="http://www.govtalk.gov.uk/core" xmlns:n4="http://www.govtalk.gov.uk/people/bs7666"><StopPoints><AnnotatedStopPointRef><StopPointRef>9300NEL</StopPointRef><CommonName>Hilton Docklands Pier</CommonName><Indicator>stop 1</Indicator><LocalityName>Rotherhithe/Surrey Quays</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>9300CAW</StopPointRef><CommonName>Canary Wharf Pier</CommonName><Indicator>stop 1</Indicator><LocalityName>Limehouse</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef></StopPoints><RouteSections><RouteSection id="RS_05HIL_H_1"><RouteLink id="RL_RS_05HIL_H_1_0"><From><StopPointRef>9300NEL</StopPointRef></From><To><StopPointRef>9300CAW</StopPointRef></To><Direction>outbound</Direction></RouteLink></RouteSection><RouteSection id="RS_05HIL_R_2"><RouteLink id="RL_RS_05HIL_R_2_0"><From><StopPointRef>9300CAW</StopPointRef></From><To><StopPointRef>9300NEL</StopPointRef></To><Direction>inbound</Direction></RouteLink></RouteSection></RouteSections><Routes><Route id="R_05HIL_H_1"><PrivateCode>R_05HIL_H_1</PrivateCode><Description>Hilton Docklands Pier - Canary Wharf Pier</Description><RouteSectionRef>RS_05HIL_H_1</RouteSectionRef></Route><Route id="R_05HIL_R_2"><PrivateCode>R_05HIL_R_2</PrivateCode><Description>Canary Wharf Pier - Hilton Docklands Pier</Description><RouteSectionRef>RS_05HIL_R_2</RouteSectionRef></Route></Routes><JourneyPatternSections><JourneyPatternSection id="JPS_05HIL_H_1"><JourneyPatternTimingLink id="JPL_05HIL_H_1_0"><From SequenceNumber="1"><StopPointRef>9300NEL</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>9300CAW</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink></JourneyPatternSection><JourneyPatternSection id="JPS_05HIL_R_1"><JourneyPatternTimingLink id="JPL_05HIL_R_1_0"><From SequenceNumber="1"><StopPointRef>9300CAW</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>9300NEL</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink></JourneyPatternSection></JourneyPatternSections><Operators><Operator id="OId_05"><OperatorCode>LRS</OperatorCode><OperatorShortName>London River Services</OperatorShortName><OperatorNameOnLicence>London River Services</OperatorNameOnLicence><TradingName>London River Services</TradingName></Operator></Operators><Services><Service><ServiceCode>SId_05HIL0</ServiceCode><PrivateCode>05HIL0</PrivateCode><Lines><Line id="LId_05HIL0"><LineName>Hilton Ferry Service</LineName></Line></Lines><OperatingPeriod><StartDate>2009-12-01</StartDate><EndDate>2010-12-23</EndDate></OperatingPeriod><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation><DaysOfNonOperation><AllBankHolidays></AllBankHolidays></DaysOfNonOperation></BankHolidayOperation></OperatingProfile><RegisteredOperatorRef>OId_05</RegisteredOperatorRef><StopRequirements><NoNewStopsRequired/></StopRequirements><StandardService><Origin>Hilton Docklands Pier</Origin><Destination>Canary Wharf Pier</Destination><JourneyPattern id="JP_05HIL_H0_1"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_05HIL_H_1</RouteRef><JourneyPatternSectionRefs>JPS_05HIL_H_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_05HIL_R0_1"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_05HIL_R_2</RouteRef><JourneyPatternSectionRefs>JPS_05HIL_R_1</JourneyPatternSectionRefs></JourneyPattern></StandardService></Service><Service><ServiceCode>SId_05HIL2</ServiceCode><PrivateCode>05HIL2</PrivateCode><Lines><Line id="LId_05HIL2"><LineName>Hilton Ferry Service</LineName></Line></Lines><OperatingPeriod><StartDate>2009-12-01</StartDate><EndDate>2010-12-23</EndDate></OperatingPeriod><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation><DaysOfNonOperation><AllBankHolidays></AllBankHolidays></DaysOfNonOperation></BankHolidayOperation></OperatingProfile><RegisteredOperatorRef>OId_05</RegisteredOperatorRef><StopRequirements><NoNewStopsRequired/></StopRequirements><StandardService><Origin>Hilton Docklands Pier</Origin><Destination>Canary Wharf Pier</Destination><JourneyPattern id="JP_05HIL_H2_1"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_05HIL_H_1</RouteRef><JourneyPatternSectionRefs>JPS_05HIL_H_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_05HIL_R2_1"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_05HIL_R_2</RouteRef><JourneyPatternSectionRefs>JPS_05HIL_R_1</JourneyPatternSectionRefs></JourneyPattern></StandardService></Service><Service><ServiceCode>SId_05HIL3</ServiceCode><PrivateCode>05HIL3</PrivateCode><Lines><Line id="LId_05HIL3"><LineName>Hilton Ferry Service</LineName></Line></Lines><OperatingPeriod><StartDate>2009-12-01</StartDate><EndDate>2010-12-23</EndDate></OperatingPeriod><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation><DaysOfNonOperation><AllBankHolidays></AllBankHolidays></DaysOfNonOperation></BankHolidayOperation></OperatingProfile><RegisteredOperatorRef>OId_05</RegisteredOperatorRef><StopRequirements><NoNewStopsRequired/></StopRequirements><StandardService><Origin>Hilton Docklands Pier</Origin><Destination>Canary Wharf Pier</Destination><JourneyPattern id="JP_05HIL_H3_1"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_05HIL_H_1</RouteRef><JourneyPatternSectionRefs>JPS_05HIL_H_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_05HIL_R3_1"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_05HIL_R_2</RouteRef><JourneyPatternSectionRefs>JPS_05HIL_R_1</JourneyPatternSectionRefs></JourneyPattern></StandardService></Service></Services><VehicleJourneys><VehicleJourney><PrivateCode>05HIL0H1</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H1</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>06:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H2</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H2</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>06:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H3</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H3</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>07:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H4</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H4</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>07:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H5</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H5</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>07:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H330</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H330</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>07:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H6</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H6</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>08:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H7</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H7</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>08:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H8</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H8</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>08:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H9</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H9</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>08:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H10</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H10</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>08:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H11</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H11</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>08:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H12</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H12</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>09:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H13</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H13</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>09:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H14</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H14</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>09:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H15</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H15</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>09:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H16</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H16</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>09:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H17</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H17</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>09:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H18</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H18</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>10:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H19</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H19</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>10:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H20</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H20</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>10:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H21</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H21</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>10:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H22</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H22</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>12:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H23</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H23</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>12:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H24</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H24</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>12:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H25</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H25</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>12:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H26</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H26</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>12:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H27</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H27</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>13:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H28</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H28</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>13:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H29</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H29</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>13:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H30</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H30</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>14:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H31</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H31</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>14:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H32</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H32</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>14:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H33</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H33</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>15:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H34</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H34</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>15:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H35</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H35</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>15:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H36</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H36</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>16:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H37</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H37</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>16:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H38</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H38</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>16:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H39</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H39</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>17:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H40</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H40</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>17:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H41</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H41</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>17:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H42</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H42</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>17:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H43</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H43</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>17:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H44</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H44</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>17:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H45</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H45</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>18:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H46</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H46</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>18:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H47</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H47</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>18:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H48</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H48</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>18:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H49</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H49</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>18:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H50</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H50</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>18:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H51</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H51</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>19:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H52</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H52</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>19:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H53</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H53</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>19:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H54</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H54</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>19:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H55</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H55</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>19:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H56</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H56</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>19:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H57</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H57</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>20:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H58</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H58</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>20:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H59</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H59</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>21:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H60</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H60</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>21:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H61</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H61</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>22:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H62</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H62</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>22:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H63</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H63</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>22:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H64</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H64</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>22:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H65</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H65</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>23:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H66</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H66</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>23:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H67</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H67</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>23:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0H68</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0H68</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_H0_1</JourneyPatternRef><DepartureTime>23:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H109</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H109</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>09:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H110</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H110</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>09:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H111</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H111</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>09:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H112</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H112</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>09:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H113</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H113</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>09:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H114</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H114</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>09:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H115</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H115</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>10:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H116</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H116</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>10:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H117</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H117</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>10:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H118</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H118</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>10:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H119</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H119</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>12:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H120</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H120</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>12:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H121</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H121</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>12:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H122</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H122</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>12:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H123</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H123</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>12:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H124</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H124</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>13:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H125</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H125</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>13:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H126</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H126</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>13:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H127</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H127</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>14:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H128</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H128</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>14:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H129</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H129</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>14:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H130</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H130</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>15:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H131</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H131</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>15:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H132</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H132</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>15:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H133</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H133</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>16:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H134</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H134</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>16:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H135</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H135</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>16:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H136</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H136</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>17:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H137</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H137</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>17:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H138</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H138</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>17:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H139</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H139</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>17:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H140</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H140</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>17:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H141</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H141</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>17:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H142</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H142</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>18:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H143</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H143</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>18:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H144</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H144</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>18:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H145</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H145</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>18:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H146</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H146</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>18:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H147</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H147</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>18:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H148</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H148</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>19:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H149</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H149</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>19:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H150</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H150</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>19:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H151</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H151</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>19:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H152</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H152</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>19:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H153</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H153</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>19:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H154</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H154</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>20:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H155</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H155</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>20:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H156</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H156</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>21:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H157</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H157</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>21:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H158</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H158</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>22:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H159</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H159</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>22:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H160</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H160</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>22:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H161</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H161</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>22:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H162</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H162</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>23:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H163</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H163</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>23:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H164</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H164</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>23:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2H165</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2H165</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_H2_1</JourneyPatternRef><DepartureTime>23:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H69</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H69</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>09:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H70</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H70</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>09:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H71</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H71</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>09:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H72</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H72</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>09:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H73</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H73</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>09:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H74</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H74</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>09:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H75</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H75</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>10:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H76</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H76</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>10:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H77</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H77</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>10:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H78</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H78</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>10:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H79</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H79</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>12:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H80</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H80</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>12:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H81</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H81</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>12:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H82</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H82</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>12:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H83</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H83</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>12:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H84</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H84</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>13:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H85</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H85</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>13:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H86</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H86</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>13:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H87</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H87</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>14:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H88</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H88</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>14:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H89</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H89</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>14:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H90</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H90</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>15:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H91</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H91</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>15:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H92</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H92</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>15:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H93</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H93</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>16:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H94</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H94</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>16:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H95</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H95</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>16:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H96</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H96</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>17:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H97</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H97</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>17:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H98</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H98</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>17:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H99</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H99</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>17:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H100</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H100</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>17:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H101</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H101</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>17:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H102</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H102</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>18:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H103</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H103</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>18:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H104</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H104</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>18:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H105</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H105</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>18:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H106</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H106</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>18:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3H107</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3H107</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_H3_1</JourneyPatternRef><DepartureTime>18:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R224</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Tuesday></Tuesday><Wednesday></Wednesday><Thursday></Thursday><Friday></Friday></DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R224</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>00:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R108</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R108</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>06:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R166</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R166</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>06:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R167</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R167</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>07:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R168</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R168</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>07:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R169</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R169</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>07:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R170</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R170</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>07:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R171</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R171</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>08:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R172</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R172</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>08:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R173</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R173</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>08:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R174</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R174</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>08:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R175</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R175</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>08:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R176</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R176</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>08:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R177</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R177</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>09:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R178</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R178</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>09:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R179</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R179</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>09:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R180</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R180</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>09:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R181</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R181</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>09:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R182</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R182</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>09:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R183</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R183</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>10:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R184</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R184</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>10:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R185</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R185</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>10:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R186</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R186</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>10:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R187</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R187</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>12:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R188</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R188</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>12:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R189</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R189</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>12:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R190</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R190</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>12:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R191</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R191</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>12:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R192</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R192</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>13:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R193</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R193</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>13:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R194</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R194</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>13:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R195</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R195</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>14:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R196</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R196</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>14:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R197</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R197</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>14:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R198</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R198</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>15:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R199</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R199</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>15:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R200</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R200</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>15:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R201</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R201</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>16:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R202</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R202</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>16:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R203</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R203</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>16:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R204</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R204</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>17:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R205</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R205</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>17:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R206</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R206</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>17:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R207</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R207</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>17:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R208</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R208</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>17:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R209</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R209</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>18:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R210</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R210</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>18:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R211</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R211</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>18:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R212</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R212</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>18:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R213</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R213</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>18:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R273</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R273</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>18:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R274</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R274</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>19:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R275</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R275</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>19:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R276</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R276</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>19:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R277</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R277</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>19:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R278</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R278</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>19:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R279</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R279</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>19:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R280</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R280</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>20:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R281</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R281</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>20:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R214</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R214</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>20:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R215</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R215</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>21:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R216</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R216</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>22:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R217</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R217</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>22:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R218</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R218</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>22:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R219</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R219</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>22:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R220</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R220</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>23:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R221</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R221</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>23:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R222</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R222</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>23:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL0R223</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL0R223</VehicleJourneyCode><ServiceRef>SId_05HIL0</ServiceRef><LineRef>LId_05HIL0</LineRef><JourneyPatternRef>JP_05HIL_R0_1</JourneyPatternRef><DepartureTime>23:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R272</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation><DaysOfNonOperation><DateRange><StartDate>2010-10-27</StartDate><EndDate>2010-10-28</EndDate></DateRange></DaysOfNonOperation></SpecialDaysOperation></OperatingProfile><VehicleJourneyCode>05HIL2R272</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>00:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R225</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R225</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>09:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R226</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R226</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>09:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R227</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R227</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>09:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R228</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R228</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>09:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R229</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R229</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>09:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R230</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R230</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>09:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R231</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R231</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>10:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R232</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R232</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>10:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R233</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R233</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>10:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R234</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R234</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>10:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R235</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R235</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>12:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R236</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R236</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>12:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R237</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R237</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>12:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R238</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R238</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>12:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R239</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R239</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>12:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R240</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R240</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>13:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R241</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R241</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>13:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R242</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R242</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>13:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R243</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R243</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>14:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R244</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R244</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>14:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R245</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R245</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>14:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R246</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R246</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>15:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R247</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R247</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>15:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R248</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R248</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>15:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R249</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R249</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>16:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R250</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R250</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>16:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R251</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R251</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>16:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R252</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R252</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>17:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R253</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R253</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>17:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R254</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R254</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>17:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R255</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R255</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>17:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R256</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R256</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>17:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R257</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R257</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>18:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R258</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R258</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>18:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R259</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R259</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>18:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R260</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R260</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>18:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R261</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R261</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>18:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R282</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R282</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>18:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R283</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R283</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>19:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R284</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R284</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>19:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R285</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R285</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>19:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R286</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R286</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>19:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R287</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R287</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>19:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R288</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R288</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>19:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R289</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R289</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>20:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R290</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R290</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>20:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R262</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R262</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>20:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R263</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R263</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>21:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R264</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R264</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>22:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R265</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R265</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>22:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R266</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R266</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>22:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R267</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R267</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>22:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R268</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R268</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>23:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R269</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R269</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>23:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R270</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R270</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>23:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL2R271</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL2R271</VehicleJourneyCode><ServiceRef>SId_05HIL2</ServiceRef><LineRef>LId_05HIL2</LineRef><JourneyPatternRef>JP_05HIL_R2_1</JourneyPatternRef><DepartureTime>23:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R272</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation><DaysOfNonOperation><DateRange><StartDate>2010-10-27</StartDate><EndDate>2010-10-28</EndDate></DateRange></DaysOfNonOperation></SpecialDaysOperation></OperatingProfile><VehicleJourneyCode>05HIL3R272</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>00:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R291</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R291</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>09:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R292</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R292</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>09:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R293</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R293</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>09:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R294</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R294</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>09:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R295</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R295</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>09:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R296</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R296</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>09:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R297</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R297</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>10:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R298</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R298</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>10:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R299</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R299</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>10:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R300</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R300</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>10:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R301</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R301</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>12:05:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R302</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R302</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>12:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R303</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R303</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>12:25:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R304</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R304</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>12:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R305</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R305</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>12:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R306</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R306</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>13:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R307</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R307</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>13:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R308</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R308</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>13:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R309</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R309</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>14:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R310</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R310</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>14:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R311</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R311</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>14:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R312</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R312</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>15:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R313</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R313</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>15:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R314</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R314</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>15:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R315</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R315</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>16:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R316</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R316</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>16:35:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R317</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R317</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>16:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R318</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R318</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>17:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R319</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R319</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>17:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R320</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R320</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>17:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R321</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R321</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>17:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R322</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R322</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>17:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R323</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R323</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>18:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R324</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R324</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>18:10:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R325</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R325</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>18:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R326</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R326</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>18:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R327</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R327</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>18:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R328</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R328</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>18:50:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>05HIL3R329</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>05HIL3R329</VehicleJourneyCode><ServiceRef>SId_05HIL3</ServiceRef><LineRef>LId_05HIL3</LineRef><JourneyPatternRef>JP_05HIL_R3_1</JourneyPatternRef><DepartureTime>19:00:00</DepartureTime></VehicleJourney></VehicleJourneys></TransXChange>
