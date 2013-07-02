@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransXChange CreationDateTime="2010-10-28T09:24:14" ModificationDateTime="2010-10-28T09:24:14" Modification="new" FileName="G:\mentzdv\Datastore\output_txc_6015Ha.xml" RevisionNumber="0" SchemaVersion="2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns="http://www.transxchange.org.uk/" xmlns:n1="http://www.transxchange.org.uk/" xmlns:n2="http://www.govtalk.gov.uk/people/AddressAndPersonalDetails" xmlns:n3="http://www.govtalk.gov.uk/core" xmlns:n4="http://www.govtalk.gov.uk/people/bs7666"><StopPoints><AnnotatedStopPointRef><StopPointRef>490013766F</StopPointRef><CommonName>Trafalgar Square/Charing Cross</CommonName><Indicator>stop F</Indicator><LocalityName>St James' (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490012247A</StopPointRef><CommonName>Southampton Street</CommonName><Indicator>stop A</Indicator><LocalityName>St James' (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490003191D</StopPointRef><CommonName>Aldwych</CommonName><Indicator>stop D</Indicator><LocalityName>Soho (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490011757L</StopPointRef><CommonName>The Royal Courts of Justice</CommonName><Indicator>stop L</Indicator><LocalityName>Soho (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490006826E</StopPointRef><CommonName>Fetter Lane (EC4)</CommonName><Indicator>stop E</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490012105HA</StopPointRef><CommonName>Ludgate Circus (EC4)</CommonName><Indicator>stop HA</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490009443G</StopPointRef><CommonName>Ludgate Hill / Old Bailey</CommonName><Indicator>stop G</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490012873A</StopPointRef><CommonName>St Paul's Cathedral</CommonName><Indicator>stop SK</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490000143E</StopPointRef><CommonName>Mansion House</CommonName><Indicator>stop ME</Indicator><LocalityName>Mansion House</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490000040B</StopPointRef><CommonName>Cannon Street</CommonName><Indicator>stop MB</Indicator><LocalityName>Cannon Street</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490000148K</StopPointRef><CommonName>Monument</CommonName><Indicator>stop H</Indicator><LocalityName>Monument</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490007418E</StopPointRef><CommonName>Great Tower Street (EC3)</CommonName><Indicator>stop E</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490013573W</StopPointRef><CommonName>The Tower Of London</CommonName><Indicator>stop TB</Indicator><LocalityName>Whitechapel</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490013573X</StopPointRef><CommonName>The Tower Of London</CommonName><Indicator>stop TA</Indicator><LocalityName>Whitechapel</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490007418W</StopPointRef><CommonName>Great Tower Street (EC3)</CommonName><Indicator>stop W</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490000148W</StopPointRef><CommonName>Monument</CommonName><Indicator>stop J</Indicator><LocalityName>Monument</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490000040A</StopPointRef><CommonName>Cannon Street</CommonName><Indicator>stop MA</Indicator><LocalityName>Cannon Street</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490010200C</StopPointRef><CommonName>St Pauls Churchyard</CommonName><Indicator>stop SH</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490012873B</StopPointRef><CommonName>St Paul's Cathedral</CommonName><Indicator>stop SJ</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490009443F</StopPointRef><CommonName>Ludgate Circus (EC4)</CommonName><Indicator>stop F</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490012105HB</StopPointRef><CommonName>Shoe Lane (EC4)</CommonName><Indicator>stop HB</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490006826W</StopPointRef><CommonName>Fetter Lane (EC4)</CommonName><Indicator>stop W</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490015067W</StopPointRef><CommonName>Chancery Lane / Fleet Street</CommonName><Indicator>stop W</Indicator><LocalityName>City of London</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490011757P</StopPointRef><CommonName>The Royal Courts of Justice</CommonName><Indicator>stop P</Indicator><LocalityName>Soho (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490003193R</StopPointRef><CommonName>Aldwych / South Side</CommonName><Indicator>stop R</Indicator><LocalityName>Soho (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490011938U</StopPointRef><CommonName>Savoy Street</CommonName><Indicator>stop U</Indicator><LocalityName>Soho (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490003112J</StopPointRef><CommonName>Bedford Street</CommonName><Indicator>stop J</Indicator><LocalityName>St James' (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>490013766H</StopPointRef><CommonName>Trafalgar Square/Charing Cross</CommonName><Indicator>stop H</Indicator><LocalityName>St James' (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef></StopPoints><RouteSections><RouteSection id="RS_6015Ha_H_1"><RouteLink id="RL_RS_6015Ha_H_1_0"><From><StopPointRef>490013766F</StopPointRef></From><To><StopPointRef>490012247A</StopPointRef></To><Distance>373</Distance><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_1"><From><StopPointRef>490012247A</StopPointRef></From><To><StopPointRef>490003191D</StopPointRef></To><Distance>349</Distance><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_2"><From><StopPointRef>490003191D</StopPointRef></From><To><StopPointRef>490011757L</StopPointRef></To><Distance>355</Distance><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_3"><From><StopPointRef>490011757L</StopPointRef></From><To><StopPointRef>490006826E</StopPointRef></To><Distance>387</Distance><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_4"><From><StopPointRef>490006826E</StopPointRef></From><To><StopPointRef>490012105HA</StopPointRef></To><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_5"><From><StopPointRef>490012105HA</StopPointRef></From><To><StopPointRef>490009443G</StopPointRef></To><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_6"><From><StopPointRef>490009443G</StopPointRef></From><To><StopPointRef>490012873A</StopPointRef></To><Distance>225</Distance><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_7"><From><StopPointRef>490012873A</StopPointRef></From><To><StopPointRef>490000143E</StopPointRef></To><Distance>291</Distance><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_8"><From><StopPointRef>490000143E</StopPointRef></From><To><StopPointRef>490000040B</StopPointRef></To><Distance>327</Distance><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_9"><From><StopPointRef>490000040B</StopPointRef></From><To><StopPointRef>490000148K</StopPointRef></To><Distance>356</Distance><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_10"><From><StopPointRef>490000148K</StopPointRef></From><To><StopPointRef>490007418E</StopPointRef></To><Distance>242</Distance><Direction>outbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_H_1_11"><From><StopPointRef>490007418E</StopPointRef></From><To><StopPointRef>490013573W</StopPointRef></To><Distance>411</Distance><Direction>outbound</Direction></RouteLink></RouteSection><RouteSection id="RS_6015Ha_R_2"><RouteLink id="RL_RS_6015Ha_R_2_0"><From><StopPointRef>490013573X</StopPointRef></From><To><StopPointRef>490007418W</StopPointRef></To><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_1"><From><StopPointRef>490007418W</StopPointRef></From><To><StopPointRef>490000148W</StopPointRef></To><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_2"><From><StopPointRef>490000148W</StopPointRef></From><To><StopPointRef>490000040A</StopPointRef></To><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_3"><From><StopPointRef>490000040A</StopPointRef></From><To><StopPointRef>490010200C</StopPointRef></To><Distance>501</Distance><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_4"><From><StopPointRef>490010200C</StopPointRef></From><To><StopPointRef>490012873B</StopPointRef></To><Distance>209</Distance><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_5"><From><StopPointRef>490012873B</StopPointRef></From><To><StopPointRef>490009443F</StopPointRef></To><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_6"><From><StopPointRef>490009443F</StopPointRef></From><To><StopPointRef>490012105HB</StopPointRef></To><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_7"><From><StopPointRef>490012105HB</StopPointRef></From><To><StopPointRef>490006826W</StopPointRef></To><Distance>122</Distance><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_8"><From><StopPointRef>490006826W</StopPointRef></From><To><StopPointRef>490015067W</StopPointRef></To><Distance>144</Distance><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_9"><From><StopPointRef>490015067W</StopPointRef></From><To><StopPointRef>490011757P</StopPointRef></To><Distance>248</Distance><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_10"><From><StopPointRef>490011757P</StopPointRef></From><To><StopPointRef>490003193R</StopPointRef></To><Distance>205</Distance><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_11"><From><StopPointRef>490003193R</StopPointRef></From><To><StopPointRef>490011938U</StopPointRef></To><Distance>311</Distance><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_12"><From><StopPointRef>490011938U</StopPointRef></From><To><StopPointRef>490003112J</StopPointRef></To><Distance>228</Distance><Direction>inbound</Direction></RouteLink><RouteLink id="RL_RS_6015Ha_R_2_13"><From><StopPointRef>490003112J</StopPointRef></From><To><StopPointRef>490013766H</StopPointRef></To><Distance>219</Distance><Direction>inbound</Direction></RouteLink></RouteSection></RouteSections><Routes><Route id="R_6015Ha_H_1"><PrivateCode>R_6015Ha_H_1</PrivateCode><Description>Trafalgar Square/Charing Cross - The Tower Of London</Description><RouteSectionRef>RS_6015Ha_H_1</RouteSectionRef></Route><Route id="R_6015Ha_R_2"><PrivateCode>R_6015Ha_R_2</PrivateCode><Description>The Tower Of London - Trafalgar Square/Charing Cross</Description><RouteSectionRef>RS_6015Ha_R_2</RouteSectionRef></Route></Routes><JourneyPatternSections><JourneyPatternSection id="JPS_6015Ha_H_1"><JourneyPatternTimingLink id="JPL_6015Ha_H_1_0"><From SequenceNumber="1"><StopPointRef>490013766F</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>490012247A</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT138S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_1"><From SequenceNumber="2"><StopPointRef>490012247A</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="3"><StopPointRef>490003191D</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT138S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_2"><From SequenceNumber="3"><StopPointRef>490003191D</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="4"><StopPointRef>490011757L</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT144S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_3"><From SequenceNumber="4"><StopPointRef>490011757L</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="5"><StopPointRef>490006826E</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT102S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_4"><From SequenceNumber="5"><StopPointRef>490006826E</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="6"><StopPointRef>490012105HA</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT108S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_5"><From SequenceNumber="6"><StopPointRef>490012105HA</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="7"><StopPointRef>490009443G</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT102S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_6"><From SequenceNumber="7"><StopPointRef>490009443G</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="8"><StopPointRef>490012873A</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT108S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_7"><From SequenceNumber="8"><StopPointRef>490012873A</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="9"><StopPointRef>490000143E</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT150S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_8"><From SequenceNumber="9"><StopPointRef>490000143E</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="10"><StopPointRef>490000040B</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT150S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_9"><From SequenceNumber="10"><StopPointRef>490000040B</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="11"><StopPointRef>490000148K</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT96S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_10"><From SequenceNumber="11"><StopPointRef>490000148K</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="12"><StopPointRef>490007418E</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT102S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_1_11"><From SequenceNumber="12"><StopPointRef>490007418E</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="13"><StopPointRef>490013573W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT102S</RunTime></JourneyPatternTimingLink></JourneyPatternSection><JourneyPatternSection id="JPS_6015Ha_H_2"><JourneyPatternTimingLink id="JPL_6015Ha_H_2_0"><From SequenceNumber="1"><StopPointRef>490013766F</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>490012247A</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT96S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_1"><From SequenceNumber="2"><StopPointRef>490012247A</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="3"><StopPointRef>490003191D</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT102S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_2"><From SequenceNumber="3"><StopPointRef>490003191D</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="4"><StopPointRef>490011757L</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT102S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_3"><From SequenceNumber="4"><StopPointRef>490011757L</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="5"><StopPointRef>490006826E</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT90S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_4"><From SequenceNumber="5"><StopPointRef>490006826E</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="6"><StopPointRef>490012105HA</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT90S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_5"><From SequenceNumber="6"><StopPointRef>490012105HA</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="7"><StopPointRef>490009443G</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT90S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_6"><From SequenceNumber="7"><StopPointRef>490009443G</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="8"><StopPointRef>490012873A</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT90S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_7"><From SequenceNumber="8"><StopPointRef>490012873A</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="9"><StopPointRef>490000143E</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_8"><From SequenceNumber="9"><StopPointRef>490000143E</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="10"><StopPointRef>490000040B</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_9"><From SequenceNumber="10"><StopPointRef>490000040B</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="11"><StopPointRef>490000148K</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT78S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_10"><From SequenceNumber="11"><StopPointRef>490000148K</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="12"><StopPointRef>490007418E</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT78S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_H_2_11"><From SequenceNumber="12"><StopPointRef>490007418E</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="13"><StopPointRef>490013573W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT84S</RunTime></JourneyPatternTimingLink></JourneyPatternSection><JourneyPatternSection id="JPS_6015Ha_R_1"><JourneyPatternTimingLink id="JPL_6015Ha_R_1_0"><From SequenceNumber="1"><StopPointRef>490013573X</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>490007418W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT78S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_1"><From SequenceNumber="2"><StopPointRef>490007418W</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="3"><StopPointRef>490000148W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT78S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_2"><From SequenceNumber="3"><StopPointRef>490000148W</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="4"><StopPointRef>490000040A</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT84S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_3"><From SequenceNumber="4"><StopPointRef>490000040A</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="5"><StopPointRef>490010200C</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT150S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_4"><From SequenceNumber="5"><StopPointRef>490010200C</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="6"><StopPointRef>490012873B</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT150S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_5"><From SequenceNumber="6"><StopPointRef>490012873B</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="7"><StopPointRef>490009443F</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_6"><From SequenceNumber="7"><StopPointRef>490009443F</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="8"><StopPointRef>490012105HB</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_7"><From SequenceNumber="8"><StopPointRef>490012105HB</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="9"><StopPointRef>490006826W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_8"><From SequenceNumber="9"><StopPointRef>490006826W</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="10"><StopPointRef>490015067W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_9"><From SequenceNumber="10"><StopPointRef>490015067W</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="11"><StopPointRef>490011757P</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_10"><From SequenceNumber="11"><StopPointRef>490011757P</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="12"><StopPointRef>490003193R</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT90S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_11"><From SequenceNumber="12"><StopPointRef>490003193R</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="13"><StopPointRef>490011938U</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT90S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_12"><From SequenceNumber="13"><StopPointRef>490011938U</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="14"><StopPointRef>490003112J</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT90S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_1_13"><From SequenceNumber="14"><StopPointRef>490003112J</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="15"><StopPointRef>490013766H</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT90S</RunTime></JourneyPatternTimingLink></JourneyPatternSection><JourneyPatternSection id="JPS_6015Ha_R_2"><JourneyPatternTimingLink id="JPL_6015Ha_R_2_0"><From SequenceNumber="1"><StopPointRef>490013573X</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>490007418W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT78S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_1"><From SequenceNumber="2"><StopPointRef>490007418W</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="3"><StopPointRef>490000148W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT78S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_2"><From SequenceNumber="3"><StopPointRef>490000148W</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="4"><StopPointRef>490000040A</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT84S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_3"><From SequenceNumber="4"><StopPointRef>490000040A</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="5"><StopPointRef>490010200C</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_4"><From SequenceNumber="5"><StopPointRef>490010200C</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="6"><StopPointRef>490012873B</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT120S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_5"><From SequenceNumber="6"><StopPointRef>490012873B</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="7"><StopPointRef>490009443F</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT84S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_6"><From SequenceNumber="7"><StopPointRef>490009443F</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="8"><StopPointRef>490012105HB</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT84S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_7"><From SequenceNumber="8"><StopPointRef>490012105HB</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="9"><StopPointRef>490006826W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT84S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_8"><From SequenceNumber="9"><StopPointRef>490006826W</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="10"><StopPointRef>490015067W</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT84S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_9"><From SequenceNumber="10"><StopPointRef>490015067W</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="11"><StopPointRef>490011757P</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT84S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_10"><From SequenceNumber="11"><StopPointRef>490011757P</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="12"><StopPointRef>490003193R</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT72S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_11"><From SequenceNumber="12"><StopPointRef>490003193R</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="13"><StopPointRef>490011938U</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT78S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_12"><From SequenceNumber="13"><StopPointRef>490011938U</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="14"><StopPointRef>490003112J</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT72S</RunTime></JourneyPatternTimingLink><JourneyPatternTimingLink id="JPL_6015Ha_R_2_13"><From SequenceNumber="14"><StopPointRef>490003112J</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="15"><StopPointRef>490013766H</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT78S</RunTime></JourneyPatternTimingLink></JourneyPatternSection></JourneyPatternSections><Operators><Operator id="OId_60"><OperatorCode>EL</OperatorCode><OperatorShortName>East London</OperatorShortName><OperatorNameOnLicence>East London</OperatorNameOnLicence><TradingName>East London</TradingName></Operator></Operators><Services><Service><ServiceCode>SId_6015Ha0</ServiceCode><PrivateCode>6015Ha0</PrivateCode><Lines><Line id="LId_6015Ha0"><LineName>15 (Heritage Routemaster Service)</LineName></Line></Lines><OperatingPeriod><StartDate>2009-12-01</StartDate><EndDate>2010-12-23</EndDate></OperatingPeriod><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation><DaysOfNonOperation><AllBankHolidays></AllBankHolidays></DaysOfNonOperation></BankHolidayOperation></OperatingProfile><RegisteredOperatorRef>OId_60</RegisteredOperatorRef><StopRequirements><NoNewStopsRequired/></StopRequirements><StandardService><Origin>Trafalgar Square/Charing Cross</Origin><Destination>The Tower Of London</Destination><JourneyPattern id="JP_6015Ha_H0_1"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_H_1</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_H_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_6015Ha_H0_2"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_H_1</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_H_2</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_6015Ha_R0_1"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_R_2</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_R_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_6015Ha_R0_2"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_R_2</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_R_2</JourneyPatternSectionRefs></JourneyPattern></StandardService></Service><Service><ServiceCode>SId_6015Ha2</ServiceCode><PrivateCode>6015Ha2</PrivateCode><Lines><Line id="LId_6015Ha2"><LineName>15 (Heritage Routemaster Service)</LineName></Line></Lines><OperatingPeriod><StartDate>2009-12-01</StartDate><EndDate>2010-12-23</EndDate></OperatingPeriod><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation><DaysOfNonOperation><AllBankHolidays></AllBankHolidays></DaysOfNonOperation></BankHolidayOperation></OperatingProfile><RegisteredOperatorRef>OId_60</RegisteredOperatorRef><StopRequirements><NoNewStopsRequired/></StopRequirements><StandardService><Origin>Trafalgar Square/Charing Cross</Origin><Destination>The Tower Of London</Destination><JourneyPattern id="JP_6015Ha_H2_1"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_H_1</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_H_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_6015Ha_H2_2"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_H_1</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_H_2</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_6015Ha_R2_1"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_R_2</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_R_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_6015Ha_R2_2"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_R_2</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_R_2</JourneyPatternSectionRefs></JourneyPattern></StandardService></Service><Service><ServiceCode>SId_6015Ha3</ServiceCode><PrivateCode>6015Ha3</PrivateCode><Lines><Line id="LId_6015Ha3"><LineName>15 (Heritage Routemaster Service)</LineName></Line></Lines><OperatingPeriod><StartDate>2009-12-01</StartDate><EndDate>2010-12-23</EndDate></OperatingPeriod><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation><DaysOfNonOperation><AllBankHolidays></AllBankHolidays></DaysOfNonOperation></BankHolidayOperation></OperatingProfile><RegisteredOperatorRef>OId_60</RegisteredOperatorRef><StopRequirements><NoNewStopsRequired/></StopRequirements><StandardService><Origin>Trafalgar Square/Charing Cross</Origin><Destination>The Tower Of London</Destination><JourneyPattern id="JP_6015Ha_H3_1"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_H_1</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_H_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_6015Ha_H3_2"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_H_1</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_H_2</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_6015Ha_R3_1"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_R_2</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_R_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_6015Ha_R3_2"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><RouteRef>R_6015Ha_R_2</RouteRef><JourneyPatternSectionRefs>JPS_6015Ha_R_2</JourneyPatternSectionRefs></JourneyPattern></StandardService></Service></Services><VehicleJourneys><VehicleJourney><PrivateCode>6015Haa0H150001</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150001</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>09:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150002</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150002</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>10:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150003</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150003</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>10:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150004</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150004</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>10:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150005</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150005</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>10:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150006</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150006</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>11:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150007</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150007</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>11:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150008</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150008</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>11:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150009</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150009</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>11:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150010</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150010</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>12:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150011</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150011</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>12:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150012</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150012</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>12:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150013</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150013</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>12:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150014</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150014</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>13:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150015</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150015</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>13:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150016</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150016</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>13:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150017</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150017</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>13:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150018</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150018</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>14:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150019</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150019</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>14:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150020</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150020</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>14:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150021</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150021</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>14:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150022</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150022</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>15:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150023</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150023</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>15:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150024</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150024</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>15:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150025</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150025</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>15:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150026</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150026</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>16:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150027</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150027</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>16:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150028</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150028</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>16:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150029</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150029</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>16:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150030</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150030</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>17:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150031</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150031</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>17:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150032</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150032</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>17:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150033</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150033</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>17:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150034</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150034</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>18:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150035</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150035</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>18:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0H150036</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0H150036</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_H0_1</JourneyPatternRef><DepartureTime>18:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150037</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150037</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>09:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150038</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150038</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>10:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150039</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150039</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>10:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150040</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150040</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>10:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150041</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150041</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>10:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150042</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150042</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>11:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150043</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150043</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>11:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150044</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150044</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>11:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150045</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150045</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>11:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150046</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150046</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>12:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150047</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150047</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>12:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150048</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150048</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>12:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150049</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150049</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>12:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150050</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150050</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>13:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150051</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150051</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>13:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150052</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150052</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>13:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150053</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150053</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>13:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150054</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150054</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>14:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150055</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150055</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>14:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150056</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150056</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>14:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150057</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150057</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>14:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150058</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150058</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>15:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150059</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150059</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>15:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150060</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150060</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>15:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150061</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150061</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>15:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150062</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150062</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>16:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150063</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150063</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>16:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150064</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150064</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>16:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150065</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150065</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>16:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150066</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150066</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>17:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150067</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150067</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>17:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150068</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150068</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>17:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150069</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150069</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>17:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150070</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150070</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>18:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150071</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150071</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>18:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2H150072</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2H150072</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_H2_2</JourneyPatternRef><DepartureTime>18:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150073</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150073</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>09:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150074</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150074</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>10:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150075</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150075</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>10:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150076</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150076</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>10:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150077</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150077</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>10:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150078</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150078</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>11:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150079</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150079</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>11:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150080</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150080</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>11:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150081</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150081</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>11:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150082</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150082</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>12:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150083</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150083</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>12:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150084</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150084</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>12:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150085</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150085</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>12:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150086</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150086</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>13:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150087</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150087</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>13:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150088</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150088</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>13:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150089</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150089</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>13:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150090</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150090</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>14:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150091</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150091</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>14:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150092</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150092</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>14:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150093</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150093</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>14:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150094</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150094</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>15:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150095</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150095</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>15:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150096</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150096</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>15:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150097</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150097</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>15:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150098</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150098</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>16:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150099</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150099</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>16:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150100</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150100</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>16:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150101</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150101</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>16:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150102</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150102</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>17:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150103</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150103</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>17:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150104</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150104</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>17:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150105</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150105</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>17:48:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150106</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150106</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>18:03:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150107</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150107</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>18:18:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3H150108</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3H150108</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_H3_2</JourneyPatternRef><DepartureTime>18:33:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150109</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150109</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>09:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150110</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150110</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>09:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150111</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150111</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>10:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150112</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150112</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>10:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150113</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150113</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>10:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150114</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150114</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>10:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150115</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150115</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>11:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150116</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150116</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>11:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150117</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150117</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>11:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150118</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150118</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>11:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150119</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150119</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>12:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150120</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150120</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>12:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150121</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150121</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>12:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150122</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150122</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>12:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150123</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150123</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>13:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150124</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150124</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>13:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150125</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150125</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>13:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150126</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150126</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>13:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150127</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150127</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>14:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150128</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150128</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>14:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150129</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150129</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>14:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150130</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150130</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>14:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150131</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150131</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>15:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150132</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150132</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>15:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150133</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150133</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>15:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150134</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150134</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>15:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150135</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150135</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>16:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150136</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150136</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>16:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150137</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150137</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>16:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150138</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150138</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>16:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150139</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150139</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>17:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150140</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150140</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>17:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150141</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150141</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>17:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150142</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150142</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>17:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150143</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150143</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>18:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150144</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150144</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>18:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa0R150145</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa0R150145</VehicleJourneyCode><ServiceRef>SId_6015Ha0</ServiceRef><LineRef>LId_6015Ha0</LineRef><JourneyPatternRef>JP_6015Ha_R0_1</JourneyPatternRef><DepartureTime>18:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150146</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150146</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>09:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150147</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150147</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>09:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150148</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150148</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>10:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150149</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150149</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>10:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150150</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150150</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>10:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150151</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150151</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>10:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150152</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150152</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>11:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150153</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150153</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>11:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150154</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150154</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>11:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150155</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150155</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>11:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150156</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150156</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>12:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150157</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150157</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>12:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150158</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150158</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>12:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150159</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150159</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>12:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150160</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150160</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>13:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150161</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150161</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>13:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150162</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150162</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>13:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150163</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150163</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>13:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150164</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150164</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>14:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150165</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150165</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>14:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150166</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150166</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>14:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150167</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150167</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>14:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150168</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150168</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>15:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150169</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150169</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>15:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150170</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150170</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>15:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150171</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150171</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>15:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150172</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150172</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>16:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150173</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150173</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>16:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150174</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150174</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>16:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150175</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150175</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>16:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150176</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150176</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>17:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150177</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150177</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>17:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150178</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150178</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>17:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150179</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150179</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>17:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150180</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150180</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>18:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150181</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150181</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>18:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa2R150182</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Saturday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa2R150182</VehicleJourneyCode><ServiceRef>SId_6015Ha2</ServiceRef><LineRef>LId_6015Ha2</LineRef><JourneyPatternRef>JP_6015Ha_R2_2</JourneyPatternRef><DepartureTime>18:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150183</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150183</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>09:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150184</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150184</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>09:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150185</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150185</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>10:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150186</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150186</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>10:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150187</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150187</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>10:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150188</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150188</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>10:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150189</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150189</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>11:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150190</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150190</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>11:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150191</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150191</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>11:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150192</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150192</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>11:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150193</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150193</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>12:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150194</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150194</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>12:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150195</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150195</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>12:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150196</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150196</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>12:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150197</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150197</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>13:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150198</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150198</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>13:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150199</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150199</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>13:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150200</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150200</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>13:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150201</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150201</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>14:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150202</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150202</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>14:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150203</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150203</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>14:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150204</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150204</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>14:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150205</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150205</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>15:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150206</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150206</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>15:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150207</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150207</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>15:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150208</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150208</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>15:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150209</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150209</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>16:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150210</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150210</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>16:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150211</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150211</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>16:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150212</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150212</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>16:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150213</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150213</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>17:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150214</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150214</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>17:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150215</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150215</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>17:37:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150216</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150216</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>17:52:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150217</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150217</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>18:07:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150218</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150218</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>18:22:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>6015Haa3R150219</PrivateCode><Operational><VehicleType><VehicleTypeCode>01</VehicleTypeCode><Description>Double Decker, Crew</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>6015Haa3R150219</VehicleJourneyCode><ServiceRef>SId_6015Ha3</ServiceRef><LineRef>LId_6015Ha3</LineRef><JourneyPatternRef>JP_6015Ha_R3_2</JourneyPatternRef><DepartureTime>18:37:00</DepartureTime></VehicleJourney></VehicleJourneys></TransXChange>

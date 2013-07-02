@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransXChange CreationDateTime="2010-10-28T08:39:58" ModificationDateTime="2010-10-28T08:39:58" Modification="new" FileName="G:\mentzdv\Datastore\output_txc_050TTc.xml" RevisionNumber="0" SchemaVersion="2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns="http://www.transxchange.org.uk/" xmlns:n1="http://www.transxchange.org.uk/" xmlns:n2="http://www.govtalk.gov.uk/people/AddressAndPersonalDetails" xmlns:n3="http://www.govtalk.gov.uk/core" xmlns:n4="http://www.govtalk.gov.uk/people/bs7666"><StopPoints><AnnotatedStopPointRef><StopPointRef>9300MBK</StopPointRef><CommonName>Millbank Millennium Pier</CommonName><Indicator>stop 1</Indicator><LocalityName>Westminster (London)</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef><AnnotatedStopPointRef><StopPointRef>9300SWK</StopPointRef><CommonName>Bankside Pier</CommonName><Indicator>stop 1</Indicator><LocalityName>Southwark</LocalityName><LocalityQualifier>Greater London</LocalityQualifier></AnnotatedStopPointRef></StopPoints><RouteSections><RouteSection id="RS_050TTc_H_1"><RouteLink id="RL_RS_050TTc_H_1_0"><From><StopPointRef>9300MBK</StopPointRef></From><To><StopPointRef>9300SWK</StopPointRef></To><Direction>outbound</Direction></RouteLink></RouteSection><RouteSection id="RS_050TTc_R_2"><RouteLink id="RL_RS_050TTc_R_2_0"><From><StopPointRef>9300SWK</StopPointRef></From><To><StopPointRef>9300MBK</StopPointRef></To><Direction>inbound</Direction></RouteLink></RouteSection></RouteSections><Routes><Route id="R_050TTc_H_1"><PrivateCode>R_050TTc_H_1</PrivateCode><Description>Millbank Millennium Pier - Bankside Pier</Description><RouteSectionRef>RS_050TTc_H_1</RouteSectionRef></Route><Route id="R_050TTc_R_2"><PrivateCode>R_050TTc_R_2</PrivateCode><Description>Bankside Pier - Millbank Millennium Pier</Description><RouteSectionRef>RS_050TTc_R_2</RouteSectionRef></Route></Routes><JourneyPatternSections><JourneyPatternSection id="JPS_050TTc_H_1"><JourneyPatternTimingLink id="JPL_050TTc_H_1_0"><From SequenceNumber="1"><StopPointRef>9300MBK</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>9300SWK</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT1080S</RunTime></JourneyPatternTimingLink></JourneyPatternSection><JourneyPatternSection id="JPS_050TTc_H_2"><JourneyPatternTimingLink id="JPL_050TTc_H_2_0"><From SequenceNumber="1"><StopPointRef>9300MBK</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>9300SWK</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT840S</RunTime></JourneyPatternTimingLink></JourneyPatternSection><JourneyPatternSection id="JPS_050TTc_R_1"><JourneyPatternTimingLink id="JPL_050TTc_R_1_0"><From SequenceNumber="1"><StopPointRef>9300SWK</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>9300MBK</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT1080S</RunTime></JourneyPatternTimingLink></JourneyPatternSection><JourneyPatternSection id="JPS_050TTc_R_2"><JourneyPatternTimingLink id="JPL_050TTc_R_2_0"><From SequenceNumber="1"><StopPointRef>9300SWK</StopPointRef><TimingStatus>PTP</TimingStatus></From><To SequenceNumber="2"><StopPointRef>9300MBK</StopPointRef><TimingStatus>PTP</TimingStatus></To><RunTime>PT840S</RunTime></JourneyPatternTimingLink></JourneyPatternSection></JourneyPatternSections><Operators><Operator id="OId_05"><OperatorCode>LRS</OperatorCode><OperatorShortName>London River Services</OperatorShortName><OperatorNameOnLicence>London River Services</OperatorNameOnLicence><TradingName>London River Services</TradingName></Operator></Operators><Services><Service><ServiceCode>SId_050TTcA</ServiceCode><PrivateCode>050TTcA</PrivateCode><Lines><Line id="LId_050TTcA"><LineName>Tate To Tate</LineName></Line></Lines><OperatingPeriod><StartDate>2009-12-01</StartDate><EndDate>2010-12-23</EndDate></OperatingPeriod><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation><DaysOfNonOperation><AllBankHolidays></AllBankHolidays></DaysOfNonOperation></BankHolidayOperation></OperatingProfile><RegisteredOperatorRef>OId_05</RegisteredOperatorRef><StopRequirements><NoNewStopsRequired/></StopRequirements><StandardService><Origin>Millbank Millennium Pier</Origin><Destination>Bankside Pier</Destination><JourneyPattern id="JP_050TTc_HA_1"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_050TTc_H_1</RouteRef><JourneyPatternSectionRefs>JPS_050TTc_H_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_050TTc_HA_2"><Direction>outbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_050TTc_H_1</RouteRef><JourneyPatternSectionRefs>JPS_050TTc_H_2</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_050TTc_RA_1"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_050TTc_R_2</RouteRef><JourneyPatternSectionRefs>JPS_050TTc_R_1</JourneyPatternSectionRefs></JourneyPattern><JourneyPattern id="JP_050TTc_RA_2"><Direction>inbound</Direction><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><RouteRef>R_050TTc_R_2</RouteRef><JourneyPatternSectionRefs>JPS_050TTc_R_2</JourneyPatternSectionRefs></JourneyPattern></StandardService></Service></Services><VehicleJourneys><VehicleJourney><PrivateCode>050TTccAH21</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH21</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_2</JourneyPatternRef><DepartureTime>10:15:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH13</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH13</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_2</JourneyPatternRef><DepartureTime>10:45:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH35</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH35</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_1</JourneyPatternRef><DepartureTime>11:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH36</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH36</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_1</JourneyPatternRef><DepartureTime>12:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH37</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH37</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_1</JourneyPatternRef><DepartureTime>12:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH38</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH38</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_1</JourneyPatternRef><DepartureTime>13:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH39</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH39</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_1</JourneyPatternRef><DepartureTime>14:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH40</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH40</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_1</JourneyPatternRef><DepartureTime>14:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH41</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH41</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_1</JourneyPatternRef><DepartureTime>15:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH42</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH42</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_1</JourneyPatternRef><DepartureTime>16:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAH43</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAH43</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_HA_1</JourneyPatternRef><DepartureTime>16:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR24</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR24</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>09:55:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR3</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR3</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_2</JourneyPatternRef><DepartureTime>10:30:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR1</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR1</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>11:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR4</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR4</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>11:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR5</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR5</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>12:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR6</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR6</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>13:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR7</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR7</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>13:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR8</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR8</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>14:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR9</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR9</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>15:00:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR10</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR10</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>15:40:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR11</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR11</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>16:20:00</DepartureTime></VehicleJourney><VehicleJourney><PrivateCode>050TTccAR12</PrivateCode><Operational><VehicleType><VehicleTypeCode>FW</VehicleTypeCode><Description>Ferry (Wheelchair accessible)</Description></VehicleType></Operational><OperatingProfile><RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday/>
+						<Saturday/>
+						<Sunday/>
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile><VehicleJourneyCode>050TTccAR12</VehicleJourneyCode><ServiceRef>SId_050TTcA</ServiceRef><LineRef>LId_050TTcA</LineRef><JourneyPatternRef>JP_050TTc_RA_1</JourneyPatternRef><DepartureTime>17:00:00</DepartureTime></VehicleJourney></VehicleJourneys></TransXChange>
